@@ -1,0 +1,18 @@
+{
+    "pages": {},
+    "title": {
+        "generic": "Mixer",
+        "page": "{{pageTitle}} | Mixer"
+    },
+    "lang": {
+        "choose": "Site language",
+        "en": "English (English)"
+    },
+    "button": {
+        "dismiss": "Dismiss"
+    },
+    "info": {
+        "title": "About",
+        "description": "You are currently viewing Mixer revision <1>{{gitRevision}}</1>."
+    }
+}

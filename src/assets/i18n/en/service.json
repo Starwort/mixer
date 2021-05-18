@@ -1,0 +1,10 @@
+{
+    "available_offline": {
+        "title": "Mixer is now available offline!",
+        "content": "Mixer's assets and code have been saved to your device's cache; you can continue to use Mixer, even offline!"
+    },
+    "available_update": {
+        "title": "Update ready",
+        "content": "An update has been downloaded; when you're ready to update, close all open Mixer tabs before opening a new one to use the new version."
+    }
+}
